@@ -12,7 +12,7 @@ O repositório está organizado para atender aos requisitos de "estrutura mínim
 ```
 /
 │
-├── 📄 Deteccao_Anomalias_Skid.ipynb
+├── 📄 TC_01.ipynb
 │
 ├── 📁 outputs/
 │   ├── 📊 grafico_dados.png
