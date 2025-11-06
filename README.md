@@ -21,7 +21,7 @@ O repositório está organizado para atender aos requisitos de "estrutura mínim
 └── 📄 README.md
 ```
 
-  * **`Deteccao_Anomalias_Skid.ipynb`**: Este é o notebook Google Colab que contém todo o código, a análise e o "minirrelatório"  detalhado, explicando o problema, os dados, os métodos e os resultados.
+  * **`TC_01.ipynb`**: Este é o notebook Google Colab que contém todo o código, a análise e o "minirrelatório"  detalhado, explicando o problema, os dados, os métodos e os resultados.
   * **`outputs/`**: Contém os "outputs exemplares"  (gráficos) gerados pela execução do notebook.
   * **`README.md`**: Este arquivo.
 
