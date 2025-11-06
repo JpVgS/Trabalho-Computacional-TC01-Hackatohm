@@ -32,7 +32,7 @@ A forma mais fácil de verificar este trabalho é usando o Google Colab, que já
 1.  **Clique no link abaixo** para abrir o notebook diretamente no Google Colab:
 
     ```
-    [Abrir no Google Colab](https://colab.research.google.com/github/SEU_USUARIO_GIT/NOME_DO_SEU_REPO/blob/main/Deteccao_Anomalias_Skid.ipynb)
+    [Abrir no Google Colab](https://colab.research.google.com/github/JpVgS/Trabalho-Computacional-TC01-Hackatohm/blob/main/TC_01.ipynb)
     ```
 
 2.  Uma vez no Colab, clique em **"Ambiente de execução"** (Runtime) no menu superior.
