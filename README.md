@@ -19,11 +19,14 @@ O repositório está organizado para atender aos requisitos de "estrutura mínim
 │   └── 📊 grafico_resultados.png
 │
 └── 📄 README.md
+│
+└── 📄Skid de Transporte para Motores Elétricos_ Segurança e Remoção Rápida (2).pdf
 ```
 
   * **`TC_01.ipynb`**: Este é o notebook Google Colab que contém todo o código, a análise e o "minirrelatório"  detalhado, explicando o problema, os dados, os métodos e os resultados.
   * **`outputs/`**: Contém os "outputs exemplares"  (gráficos) gerados pela execução do notebook.
   * **`README.md`**: Este arquivo.
+  * **`Skid de Transporte para Motores Elétricos_ Segurança e Remoção Rápida (2)`**: Sua seção 8 contém todo o plano de ação, de forma extremamente detalhada, com suas devidas referências.
 
 ## 🚀 Como Executar (Instruções)
 
